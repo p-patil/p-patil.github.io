@@ -4,3 +4,5 @@ title:  "First Test Post"
 date:   2018-01-31 22:44:37 +0000
 ---
 Hi bb.
+
+Test math: <span> $ \int_0^1 x^3 dx $ </span>
